@@ -1,3 +1,12 @@
+---CREATE DATABASE
+
+create database crowdfunding_db;
+
+---CREATE DATABASE SCHEMA
+
+create schema crowdfunding_db_schema;
+
+
 ---CREATE TABLE CONTACTS
 
 CREATE TABLE "contacts" (
